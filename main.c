@@ -1,3 +1,7 @@
+/**
+ * 계산기 v1.0
+ * 2022-05-19
+ */
 #include <stdio.h>
  
 int add(int, int);
